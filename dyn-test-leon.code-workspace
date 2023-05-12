@@ -3,6 +3,10 @@
         {
             "path": ".AL-Go"
         }
+        ,
+        {
+            "path": "test Leon"
+        }
     ],
     "settings": {}
 }
